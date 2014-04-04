@@ -2,7 +2,6 @@ class HanoyTower
 {
     public static void main(String[] args) 
     {
-        System.out.println("Hello World!");
         printStep(4, 1, 3, 2);
     }
     public static void printStep(int rings, int from, int to, int buffer)
